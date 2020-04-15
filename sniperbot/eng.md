@@ -11,7 +11,7 @@
 
 ### Description of the program
 
-The program is designed for automatic trading at glass prices, taking into account the desired purchase and sale prices.
+The program is designed for automatic trading at depth prices.
 
 The bot places purchase orders at the price `bid` + `step`, if the price has fallen below the maximum purchase price `max_buy`
 
