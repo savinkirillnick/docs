@@ -8,7 +8,7 @@
 
 #### 1.0 build 2
 * Added Exmo exchange
-* Rewritten order cancelation script
+* Rewritten order cancellation script
 
 #### 1.0 build 1
 * Working version of Sniperbot
