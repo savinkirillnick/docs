@@ -136,8 +136,8 @@ Parameter | Description
 30m       |30 minutes
 1h        |1 hour
 2h        |2 hours
-3h        |3 hours
 4h        |4 hours
+6h        |6 hours
 1d        |1 day
 1w        |1 week
 1M        |1 month
