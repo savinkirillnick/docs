@@ -8,7 +8,7 @@
 
 #### 1.0 build 4
 * Added Exmo exchange
-* Rewritten order cancelation script
+* Rewritten order cancellation script
 
 #### 1.0 build 3
 * Added Huobi exchange
