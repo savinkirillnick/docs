@@ -6,6 +6,10 @@
 
 ### Updates
 
+#### 1.0 build 4
+* Added Exmo exchange
+* Rewritten order cancelation script
+
 #### 1.0 build 3
 * Added Huobi exchange
 * Extended work with intervals, added `3d`,` 1w`, `1M`
