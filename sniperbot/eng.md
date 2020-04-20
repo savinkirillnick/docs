@@ -8,7 +8,7 @@
 
 #### 1.0 build 3
 * Added Okex exchange
-* Rewritten order's history script
+* Rewritten Huobi orders history display script
 
 #### 1.0 build 2
 * Added Exmo exchange
