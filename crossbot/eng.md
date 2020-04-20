@@ -6,6 +6,10 @@
 
 ### Updates
 
+#### 1.0 build 5
+* Added Okex exchange
+* Rewritten Huobi orders history display script
+
 #### 1.0 build 4
 * Added Exmo exchange
 * Rewritten order cancellation script
@@ -89,7 +93,9 @@ After checking the parameters, the bot sends a buy or sell order, in accordance 
 The bot supports the following exchanges:
 ```
 Binance
+Exmo
 Huobi
+Okex
 ```
 
 #### Parameter Step Size
@@ -143,6 +149,7 @@ Parameter | Description
 1M        |1 month
 
 Parameters supported by `Huobi`
+Exchange keeps last 2000 values
 Parameter | Description
 --------- | ---------------
 1m        |1 minute
@@ -154,3 +161,20 @@ Parameter | Description
 1d        |1 day
 1w        |1 week
 1M        |1 month
+
+Parameters supported by `Okex`
+Exchange keeps last 200 values
+Parameter | Description
+--------- | ---------------
+1m        |1 minute
+3m        |3 minutes
+5m        |5 minutes
+15m       |15 minutes
+30m       |30 minutes
+1h        |1 hour
+2h        |2 hours
+4h        |4 hours
+6h        |6 hours
+12h       |12 hours
+1d        |1 day
+1w        |1 week
