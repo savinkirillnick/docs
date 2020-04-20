@@ -149,7 +149,7 @@ Parameter | Description
 1M        |1 month
 
 Parameters supported by `Huobi`
-Exchange keeps last 2000 values
+* Exchange keeps last 2000 values
 Parameter | Description
 --------- | ---------------
 1m        |1 minute
@@ -163,7 +163,7 @@ Parameter | Description
 1M        |1 month
 
 Parameters supported by `Okex`
-Exchange keeps last 200 values
+* Exchange keeps last 200 values
 Parameter | Description
 --------- | ---------------
 1m        |1 minute
