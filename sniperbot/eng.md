@@ -6,6 +6,10 @@
 
 ### Updates
 
+#### 1.0 build 3
+* Added Okex exchange
+* Rewritten order's history script
+
 #### 1.0 build 2
 * Added Exmo exchange
 * Rewritten order cancellation script
@@ -70,7 +74,9 @@ After checking the parameters, the bot sends a buy or sell order, in accordance 
 The bot supports the following exchanges:
 ```
 Binance
+Exmo
 Huobi
+Okex
 ```
 
 #### Parameter Step Size
