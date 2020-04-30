@@ -6,6 +6,11 @@
 
 ### Updates
 
+#### 1.0 build 6
+* Added display of time in the logs
+* Fixed order cancellation method for Binance
+* Minor code optimization
+
 #### 1.0 build 5
 * Added Okex exchange
 * Rewritten Huobi orders history display script
