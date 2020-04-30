@@ -6,6 +6,12 @@
 
 ### Updates
 
+#### 1.0 build 4
+* Added display of time in the logs
+* Fixed order cancellation method for Binance
+* Minor code optimization
+* Added Dovewallet and Tidex exchanges
+
 #### 1.0 build 3
 * Added Okex exchange
 * Rewritten Huobi orders history display script
@@ -74,9 +80,11 @@ After checking the parameters, the bot sends a buy or sell order, in accordance 
 The bot supports the following exchanges:
 ```
 Binance
+Dovewallet
 Exmo
 Huobi
 Okex
+Tidex
 ```
 
 #### Parameter Step Size
