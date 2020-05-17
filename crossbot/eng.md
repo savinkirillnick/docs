@@ -6,6 +6,10 @@
 
 ### Updates
 
+#### 1.0 built 7
+* Added debug mode. Used with flags -d or --debug
+* Added Bithumb exchange
+
 #### 1.0 build 6
 * Added display of time in the logs
 * Fixed order cancellation method for Binance
@@ -98,6 +102,7 @@ After checking the parameters, the bot sends a buy or sell order, in accordance 
 The bot supports the following exchanges:
 ```
 Binance
+Bithumb
 Exmo
 Huobi
 Okex
@@ -137,6 +142,20 @@ Parameter | Description
 3d        |3 days
 1w        |1 week
 1M        |1 month
+
+Parameters supported by `Bithumb`
+* Exchange keeps last 1000-1500 values
+Parameter | Description
+--------- | ---------------
+1m        |1 minute
+3m        |3 minutes
+5m        |5 minutes
+10m       |10 minutes
+30m       |30 minutes
+1h        |1 hour
+6h        |6 hours
+12h       |12 hours
+1d        |1 day
 
 Parameters supported by `Exmo`
 Parameter | Description
