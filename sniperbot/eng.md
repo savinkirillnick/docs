@@ -6,7 +6,7 @@
 
 ### Updates
 
-#### 1.0 built 7
+#### 1.0 built 5
 * Added debug mode. Used with flags -d or --debug
 * Change trading start time when bot cancel orders
 * Added Bithumb exchange
