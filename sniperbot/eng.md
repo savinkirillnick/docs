@@ -6,6 +6,11 @@
 
 ### Updates
 
+#### 1.0 built 7
+* Added debug mode. Used with flags -d or --debug
+* Change trading start time when bot cancel orders
+* Added Bithumb exchange
+
 #### 1.0 build 4
 * Added display of time in the logs
 * Fixed order cancellation method for Binance
