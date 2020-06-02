@@ -6,6 +6,12 @@
 
 ### Updates
 
+#### 1.1
+* Added error codes
+* Added position module
+* Added Cex exchange
+* Optimized work by API for Binance, Bithumb, Okex, Dovewallet
+
 #### 1.0 built 5
 * Added debug mode. Used with flags -d or --debug
 * Change trading start time when bot cancel orders
