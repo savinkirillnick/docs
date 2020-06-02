@@ -6,6 +6,10 @@
 
 ### Updates
 
+#### 1.0 build 8
+* Added error codes
+* Optimized work by API
+
 #### 1.0 built 7
 * Added debug mode. Used with flags -d or --debug
 * Added Bithumb exchange
