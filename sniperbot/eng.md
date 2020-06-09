@@ -6,6 +6,9 @@
 
 ### Updates
 
+#### 1.1 build 1
+* Minor fixes of exchanges API scripts
+
 #### 1.1
 * Added error codes
 * Added position module
