@@ -6,6 +6,11 @@
 
 ### Updates
 
+#### 1.1 build 2
+* Rewrited main loop function
+* Fixed timings for exchanges API
+* Added exchanges Yobit, Livecoin
+
 #### 1.1 build 1
 * Minor fixes of exchanges API scripts
 
