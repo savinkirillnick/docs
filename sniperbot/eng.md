@@ -99,11 +99,15 @@ After checking the parameters, the bot sends a buy or sell order, in accordance 
 The bot supports the following exchanges:
 ```
 Binance
+Bithumb
 Dovewallet
+Cex
 Exmo
 Huobi
+Livecoin
 Okex
 Tidex
+Yobit
 ```
 
 #### Parameter Step Size
