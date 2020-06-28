@@ -101,10 +101,13 @@
 Binance
 Bithumb
 Dovewallet
+Cex
 Exmo
 Huobi
+Livecoin
 Okex
 Tidex
+Yobit
 ```
 
 #### Параметр Step Size
