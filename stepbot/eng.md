@@ -67,7 +67,7 @@ The bot works both on an uptrend and a downtrend.
 
 `Lot ratio` - Increase / decrease ratio of the step amount. Every subsequent trades, the size of the step amount will be multiplied by a given coefficient
 
-### Description of parameters
+### Exchanges
 
 The bot supports the following exchanges:
 ```
