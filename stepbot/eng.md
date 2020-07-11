@@ -4,6 +4,10 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.2 beta
+* Removed num_steps parameter, adding trent_time parameter
+* Rewritten procedures of starting and reseting of strategy
+
 #### 0.1 beta
 * Beta version of stepbot
 
@@ -49,7 +53,7 @@ The bot works both on an uptrend and a downtrend.
 
 `Depo` - Deposit allocated for the purchase
 
-`Num Step` - Number of sales steps
+`Trend time` - Time step in seconds through which a trend reversal is checked. If during a specified time the trend continues and the currency grows, then the bot does not conduct sales transactions 
 
 `Buy from` - A parameter that shows what price to start building each next step from. From the initial price or from the last transaction price.
 
