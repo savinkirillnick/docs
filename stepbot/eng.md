@@ -5,7 +5,7 @@
 `http://funnymay.com/products.php`
 
 #### 0.2 beta
-* Removed num_steps parameter, adding trent_time parameter
+* Removed `Num steps` parameter, adding `Trent time` parameter
 * Rewritten procedures of starting and reseting of strategy
 
 #### 0.1 beta
