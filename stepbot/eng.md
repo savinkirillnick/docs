@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.3 beta
+* Fixed Tidex API
+
 #### 0.2 beta
 * Removed `Num steps` parameter, adding `Trent time` parameter
 * Rewritten procedures of starting and reseting of strategy
