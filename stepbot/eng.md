@@ -5,7 +5,9 @@
 `http://funnymay.com/products.php`
 
 #### 0.3 beta
-* Fixed Tidex API
+* Rounding prices method for Tidex fixed
+* Added exchange Kucoin
+* Prices calculation function fixed
 
 #### 0.2 beta
 * Removed `Num steps` parameter, adding `Trent time` parameter
@@ -84,6 +86,7 @@ Dovewallet
 Cex
 Exmo
 Huobi
+Kucoin
 Livecoin
 Okex
 Tidex
