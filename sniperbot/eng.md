@@ -6,6 +6,14 @@
 
 ### Updates
 
+#### 1.1 build 4
+* Rounding price method for Tidex fixed
+* Added exchange Kucoin
+* Prices calculation function fixed
+
+#### 1.1 build 3
+* Pause time function fixed
+
 #### 1.1 build 2
 * Rewrited main loop function
 * Fixed timings for exchanges API
@@ -104,6 +112,7 @@ Dovewallet
 Cex
 Exmo
 Huobi
+Kucoin
 Livecoin
 Okex
 Tidex
