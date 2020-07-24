@@ -5,7 +5,9 @@
 `http://funnymay.com/products.php`
 
 #### 0.3 beta
-* Исправлено API по работе с Tidex
+* Исправлен метод округления цен биржи Tidex
+* Подключена биржа Kucoin
+* Исправлены функции расчета цен продаж
 
 #### 0.2 beta
 * Удален параметр `Num steps`, добавлен параметр `Trent time`
@@ -90,6 +92,7 @@ Dovewallet
 Cex
 Exmo
 Huobi
+Kucoin
 Livecoin
 Okex
 Tidex
