@@ -7,7 +7,7 @@
 ### Updates
 
 #### 1.1 build 4
-* Rounding price method for Tidex fixed
+* Rounding prices method for Tidex fixed
 * Added exchange Kucoin
 * Prices calculation function fixed
 
