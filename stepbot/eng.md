@@ -4,6 +4,12 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.4 beta
+* Updated debug mode
+* Fixed construction of sales steps
+* Minor adjustments to work with the exchange api
+* Fixed formatting of prices and amounts for Bithumb, Huobi, Kucoin exchanges
+
 #### 0.3 beta
 * Rounding prices method for Tidex fixed
 * Added exchange Kucoin
