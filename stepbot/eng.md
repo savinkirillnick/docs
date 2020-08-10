@@ -4,6 +4,12 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.5 beta
+* Fixed resetting strategy settings when changing or saving settings.
+* Added the ability to buy and sell orders at the ask, bid, calc, last, best price.
+* Fixed output of logs.
+* Removed `Trend time` parameter, added `Buy at` and `Sell at` Parameters.
+
 #### 0.4 beta
 * Updated debug mode
 * Fixed construction of sales steps
@@ -16,7 +22,7 @@
 * Prices calculation function fixed
 
 #### 0.2 beta
-* Removed `Num steps` parameter, adding `Trent time` parameter
+* Removed `Num steps` parameter, added `Trent time` parameter
 * Rewritten procedures of starting and reseting of strategy
 
 #### 0.1 beta
@@ -64,7 +70,9 @@ The bot works both on an uptrend and a downtrend.
 
 `Depo` - Deposit allocated for the purchase
 
-`Trend time` - Time step in seconds through which a trend reversal is checked. If during a specified time the trend continues and the currency grows, then the bot does not conduct sales transactions 
+`Buy at` - Select at what price the bot will send a buy order. `Ask` - at the ask price,` Bid` - at the bid price, `Calc` - at the calculated price,` Last` - at the last deal price of the exchange, `Best` - at the best price from` Ask`, `Calc` and `Last`.
+
+`Sell at` - Select at what price the bot will send a sell order. `Ask` - at the ask price,` Bid` - at the bid price, `Calc` - at the calculated price,` Last` - at the last deal price of the exchange, `Best` - at the best price from` Bid`, `Calc` and `Last`.
 
 `Buy from` - A parameter that shows what price to start building each next step from. From the initial price or from the last transaction price.
 
