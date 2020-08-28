@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.6.6 beta
+* Code fully rewritten
+
 #### 0.5 beta
 * Fixed resetting strategy settings when changing or saving settings.
 * Added the ability to buy and sell orders at the ask, bid, calc, last, best price.
