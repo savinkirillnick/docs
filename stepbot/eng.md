@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.6.7 beta
+* Minor fixes for Dovewallet, Exmo
+
 #### 0.6.6 beta
 * Code fully rewritten
 
