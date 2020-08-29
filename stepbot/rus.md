@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.6.7 beta
+* Мелкие правки для бирж Dovewallet, Exmo
+
 #### 0.6.6 beta
 * Полностью переписан код бота
 
