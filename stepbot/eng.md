@@ -4,6 +4,10 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.7.2 beta
+* Added trailing stop
+* Added list of saved settings
+
 #### 0.6.7 beta
 * Minor fixes for Dovewallet, Exmo
 
@@ -75,6 +79,8 @@ The bot works both on an uptrend and a downtrend.
 `Upd Time` - Delay time between sending requests to the exchange, seconds
 
 `Depo` - Deposit allocated for the purchase
+
+`Trail stop` - Amount of seconds by which the minimum price will be calculated for placing a stop
 
 `Buy at` - Select at what price the bot will send a buy order. `Ask` - at the ask price,` Bid` - at the bid price, `Calc` - at the calculated price,` Last` - at the last deal price of the exchange, `Best` - at the best price from` Ask`, `Calc` and `Last`.
 
