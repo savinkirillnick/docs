@@ -4,6 +4,15 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.9 beta
+* Rewrote the function of counting the steps of buying and selling
+* Rewritten functions for storing and outputting logs
+* Rewritten trailing stop function
+* Fixed option to pause purchase after sale
+
+#### 0.8 beta
+* Added the ability to change the strategy from outside
+
 #### 0.7.2 beta
 * Added trailing stop
 * Added list of saved settings
