@@ -6,6 +6,12 @@
 
 ### Updates
 
+#### 1.2
+* Code update
+* Added the ability to change the strategy from outside
+* Rewritten functions for storing and outputting logs
+* Fixed option to pause purchase after sale
+
 #### 1.1 build 4
 * Rounding prices method for Tidex fixed
 * Added exchange Kucoin
