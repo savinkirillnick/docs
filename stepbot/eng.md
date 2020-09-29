@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.9.1
+* Fixed problem of uncontrolled purchasing
+
 #### 0.9 beta
 * Rewrote the function of counting the steps of buying and selling
 * Rewritten functions for storing and outputting logs
