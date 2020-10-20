@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.9.2
+* Fixed problem of freezing trailing stop
+
 #### 0.9.1
 * Fixed problem of uncontrolled purchasing
 
