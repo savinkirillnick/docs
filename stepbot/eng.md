@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 0.9.3
+* Fixed minor errors in scripts working with API Bithumb, Dovewallet, Okex
+
 #### 0.9.2
 * Fixed problem of freezing trailing stop
 
