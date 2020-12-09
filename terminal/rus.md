@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 1.0.1
+* Исправлены мелкие ошибки скриптов работы с API Bithumb, Dovewallet, Okex
+
 #### 1.0
 * Рабочая версия программы terminal
 
