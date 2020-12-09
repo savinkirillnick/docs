@@ -6,6 +6,9 @@
 
 ### Updates
 
+#### 1.2.1
+* Fixed minor errors in scripts working with API Bithumb, Dovewallet, Okex
+
 #### 1.2
 * Code update
 * Added the ability to change the strategy from outside
