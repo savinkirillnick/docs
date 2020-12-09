@@ -2,7 +2,10 @@
 
 ### Link to download
 
-`http://funnymay.com/products.php
+`http://funnymay.com/products.php`
+
+#### 1.0.1
+* Fixed minor errors in scripts working with API Bithumb, Dovewallet, Okex
 
 #### 1.0
 * Working version of terminal
