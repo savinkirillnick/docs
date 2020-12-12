@@ -4,6 +4,20 @@
 
 `http://funnymay.com/products.php`
 
+#### 2.0.1
+* Fixed rounding of volume before submitting orders to Binance
+* Fixed display of prices and volumes in the windows of orders and deals
+* Rewritten graph output
+* Removed unnecessary debug outputs
+* Fixed chat time
+
+#### 0.9.4
+* Fixed rounding of volume before submitting orders to Binance
+
+#### 2.0
+* Redesigned interface
+* Added: chat, charts, calculator, time
+
 #### 0.9.3
 * Fixed minor errors in scripts working with API Bithumb, Dovewallet, Okex
 
