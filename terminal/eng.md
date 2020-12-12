@@ -4,6 +4,9 @@
 
 `http://funnymay.com/products.php`
 
+#### 1.0.2
+* Fixed rounding of volume before submitting orders to Binance
+
 #### 1.0.1
 * Fixed minor errors in scripts working with API Bithumb, Dovewallet, Okex
 
