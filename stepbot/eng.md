@@ -4,6 +4,15 @@
 
 `http://funnymay.com/products.php`
 
+#### 2.1
+* Settings can be saved to a string and shared
+* Added telegram alert function
+* Added the function of collecting statistics about transactions
+* Fixed display of decimal numbers
+* Separated files for storing settings and technical information
+* Added new exchanges
+* Added Logs
+
 #### 2.0.1
 * Fixed rounding of volume before submitting orders to Binance
 * Fixed display of prices and volumes in the windows of orders and deals
