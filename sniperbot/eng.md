@@ -235,7 +235,7 @@ WhiteBit
 Xena Exchange
 Yobit
 Zaif
-ZB'
+ZB
 ```
 
 #### Parameter Step Size
