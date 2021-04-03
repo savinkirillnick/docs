@@ -4,6 +4,12 @@
 
 `http://funnymay.com/products.php`
 
+### Обновления
+
+#### 2.1.1
+* Переписана функция подключения API бирж
+* Исправлено обновление позиции при наличии средств на балансе не достаточных для сделок
+
 #### 2.1
 * Настройки можно сохранить в строку и поделиться ей
 * Добавлена функция оповещения по telegram
@@ -153,15 +159,108 @@
 
 Бот поддерживает следующие биржи:
 ```
+AAX
+ACX
+AOFEX
+Bequant
+Bibox
+BigONE
 Binance
+BinanceUS
+Bit2C
+bitbank
+BitBay
+bitcoin.com
+Bitfinex
+Bitforex
+Bitget
 Bithumb
-Dovewallet
+bitkk
+BitMart
+BitMax
+BitMEX
+Bitpanda Pro
+Bitso
+Bittrex
+Bitvavo
+Bit-Z
+BL3P
+Bleutrade
+BTC-Alpha
+BtcBox
+BTC Trade UA
+BW
+Bybit
+ByteTrade
+CDAX
 Cex
+ChileBit
+Coinbase
+Coinbase Prime
+Coinbase Pro
+coincheck
+CoinEgg
+CoinEx
+CoinFalcon
+coinfloor
+CoinOne
+CoinSpot
+CREX24
+Currency.com
+Delta Exchange
+Deribit
+DigiFinex
+EQUOS
+Eterbase
 Exmo
-Huobi
+EXX
+FoxBit
+FTX
+Gate.io
+Gemini
+GOPAX
+HBTC
+hitbtc
+HollaEx
+Huobi Japan
+Huobi Pro
+IDEX
+Independent Reserve
+INDODAX
+itBit
+Kraken
 Kucoin
-Livecoin
+Kuna
+LakeBTC
+Latoken
+LBank
+Liquid
+Lykke
+MixCoins
+NDAX
+NovaDAX
+OceanEx
+OKCoin
 Okex
+Paymium
+Phemex
+Poloniex
+ProBit
+qTrade
+RightBTC
+SouthXchange
+STEX
+SurBitcoin
+TheRockTrading
 Tidex
+TimeX
+Upbit
+VBTC
+VCC Exchange
+Waves.Exchange
+WhiteBit
+Xena Exchange
 Yobit
+Zaif
+ZB
 ```
