@@ -6,6 +6,19 @@
 
 ### Updates
 
+#### 2.1.4
+* Update API
+* Update scroll bar
+* Update exchanges list
+* Messenger disabled
+
+#### 2.1.3
+* Update API
+
+#### 2.1.2
+* Update API Kucoin
+* Debugging rounds
+
 #### 2.1.1
 * Rewrote function for connecting API exchanges
 * Fixed updating a position when there are not enough funds on the balance for transactions
