@@ -2,7 +2,7 @@
 
 ### Link to download
 
-`http://funnymay.com/products.php`
+`https://github.com/savinkirillnick/terminal/`
 
 ### Updates
 

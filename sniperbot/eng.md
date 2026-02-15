@@ -2,7 +2,7 @@
 
 ### Link to download
 
-`http://funnymay.com/products.php`
+`https://github.com/savinkirillnick/sniperbot2/`
 
 ### Updates
 

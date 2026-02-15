@@ -2,7 +2,7 @@
 
 ### Ссылка на скачивание
 
-`http://funnymay.com/products.php`
+`https://github.com/savinkirillnick/terminal/`
 
 #### 2.1.4
 * Обновление API
